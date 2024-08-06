@@ -1,9 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700;800;900&display=swap");
 :root {
   --font: "Inter", sans-serif;
-  /* --body-color: #637381; */
-  /* --heading-color: #31423f; */
-  /* --primary-color: #31423f; */
   --body-color: #83B775;
   --heading-color: #83B775;
   --primary-color: #83B775;
